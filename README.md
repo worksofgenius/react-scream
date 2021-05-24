@@ -1,5 +1,7 @@
 # react-scream
 
+![How are you feeling logo](https://github.com/worksofgenius/react-scream/blob/master/react-scream-logo.png)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
