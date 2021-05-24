@@ -10,7 +10,7 @@
 This project is a simple React experiment.
 	
 ## Technologies
-Project is created with:
+This project is created with:
 * JavaScript
 * React
 * HTML/CSS
